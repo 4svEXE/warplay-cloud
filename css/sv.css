@@ -1,0 +1,14 @@
+/*   mini bootstrap   */
+.sv-flex{
+	display: flex;
+  justify-content: center;
+  justify-items: center;
+  align-content: center;
+  flex-wrap: wrap;
+  align-items: center;
+}
+.sv-col{
+  display: flex;
+  flex-direction: column !important;
+}
+/*   mini bootstrap   */
